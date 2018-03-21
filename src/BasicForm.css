@@ -1,0 +1,16 @@
+/* eslint-disable */
+.form {
+  width: 50%;
+  margin: 50px auto;
+  padding: 25px;
+  max-width: 272px;
+}
+
+#form2 {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.ReactTable .rt-noData {
+  display: none;
+}
